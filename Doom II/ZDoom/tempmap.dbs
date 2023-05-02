@@ -1,0 +1,26 @@
+type = "Doom Builder Map Settings Configuration";
+config = "Doom 2";
+
+MAP01
+{
+	addwad = "C:\\Doom II\\ZDoom\\ulsimpdm.wad";
+	addtexdir = "C:\\Doom II\\ZDoom\\";
+	addflatdir = "C:\\Doom II\\ZDoom\\";
+}
+
+
+MAP30
+{
+	addwad = "";
+	addtexdir = "";
+	addflatdir = "";
+}
+
+
+E1M1
+{
+	addwad = "C:\\Doom II\\ZDoom\\simpdoom.wad";
+	addtexdir = "";
+	addflatdir = "";
+}
+
