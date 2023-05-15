@@ -1,5 +1,5 @@
 type = "Doom Builder Map Settings Configuration";
-gameconfig = "Skulltag_DoomHexen.cfg";
+gameconfig = "ZDoom_DoomHexen.cfg";
 strictpatches = 0;
 
 maps
@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\GITHUB\\Engenharia\\Doom II\\ZDoom\\DOOM2.WAD";
+				location = "C:\\Doom II\\ZDoom\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -32,6 +32,12 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			gridsize = 8;
+		}
+		
+		
+		scripts
+		{
+			file0 = "";
 		}
 		
 	}
