@@ -5,7 +5,7 @@ strictpatches = 0;
 maps
 {
 	
-	MAP06
+	MAP07
 	{
 		
 		resources
@@ -15,7 +15,7 @@ maps
 			{
 				type = 0;
 				location = "C:\\Doom II\\ZDoom\\DOOM2.WAD";
-				option1 = 0;
+				option1 = 1;
 				option2 = 0;
 				notfortesting = 0;
 			}
